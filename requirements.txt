@@ -1,0 +1,40 @@
+# Screen capture
+mss==9.0.1
+
+# Computer vision & image processing
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==12.1.1
+
+# OCR
+pytesseract==0.3.10
+
+# HTTP client
+aiohttp==3.13.3
+requests==2.31.0
+
+# Data validation
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# Keyboard listener (graceful shutdown)
+pynput==1.7.6
+
+# Configuration
+python-dotenv==1.0.1
+
+# Logging
+loguru==0.7.2
+
+# CLI / terminal UI
+rich==13.7.1
+
+# Fuzzy string matching (deduplication)
+# difflib is part of stdlib
+
+# Optional: EasyOCR (GPU-accelerated OCR)
+# easyocr==1.7.1  # Uncomment to enable
+
+# Testing
+pytest==8.2.0
+pytest-asyncio==0.23.6
