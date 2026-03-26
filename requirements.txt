@@ -4,13 +4,13 @@ mss==9.0.1
 # Computer vision & image processing
 opencv-python==4.9.0.80
 numpy==1.26.4
-Pillow==10.3.0
+Pillow==12.1.1
 
 # OCR
 pytesseract==0.3.10
 
 # HTTP client
-aiohttp==3.9.5
+aiohttp==3.13.3
 requests==2.31.0
 
 # Data validation
